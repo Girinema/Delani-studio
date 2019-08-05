@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $("form").submit(function(){
+      alert("Submitted");
+    });
+  });
+  $(document).ready(function(){
+    $("#first").click(function(){
+      $("h6,#one").slideDown("slow");
+    });
