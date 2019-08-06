@@ -1,9 +1,5 @@
 $(document).ready(function(){
-    $("form").submit(function(){
-      alert("Submitted");
-    });
+  $("img").click(function(){
+    $("h5").slideToggle("slow");
   });
-  $(document).ready(function(){
-    $("#first").click(function(){
-      $("h6,#one").slideDown("slow");
-    });
+});
