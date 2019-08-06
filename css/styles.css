@@ -42,7 +42,7 @@ justify-content: space-between;}
 #two{text-align: center;}   
 
  .sec{display:flex;
-justify-content:space space-between}  
+            justify-content: space-between;}
 .text{
     display: none;
 }
