@@ -18,9 +18,7 @@ html{margin:80px;
   font-family: bold;
 }
 .third{background-image:url(/home/wecode/Home/delani/IP3/assets/backgrounds/c_image.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-  background-position:center;
+ background-repeat: no-repeat;
   height:500px;
   width:100%;
   text-align: center;
