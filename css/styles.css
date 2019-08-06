@@ -46,21 +46,25 @@ html{margin:80px;
 .table{ display:flex;
 justify-content: space-between;} 
 #two{text-align: center;}   
-.form-group1{
-    width: 50%;
-    padding: 12px 20px;
-    margin: 8px 0;
- 
-  }
-.form-group2{
-    width: 50%;
-    padding: 12px 20px;
-    margin: 8px 0;
- 
-  }
-  .form-group3{ width: 50%;
-    padding: 12px 20px;
-    margin: 8px 0;
-      }
- 
-}   
+
+ .sec{display:flex;
+justify-content:space space-between}  
+.text{
+    display: none;
+}
+.input1{
+   
+    padding: 10px;
+    margin-left: 200px;
+}
+.input2{
+  
+    padding: 10px;
+}
+.txt-a{
+    background-color: transparent;
+    margin-left: 200px;
+}
+input{
+    background: transparent;
+}
