@@ -11,7 +11,7 @@ html{margin:80px;
   color:white;
   padding-top: 120px;
 }
-.container{background-image:url(/home/wecode/Home/delani/IP3/assets/backgrounds/s_image.jpg);
+.services{background-image:url(/home/wecode/Home/delani/IP3/assets/backgrounds/s_image.jpg);
     background-repeat:no-repeat;
     background-size:cover;
   background-position:center;
@@ -30,12 +30,13 @@ html{margin:80px;
   width:100%;
   text-align: center;
   color:white;
-  padding-top: 120px;
+  margin-top:50px;
+  
 }
 .zero{text-align: center;}
 .table{text-align: center;
     margin-right: 150px;}
-#port{text-align: center;}
+.port{text-align: center;}
 .table4{
     justify-content:center;
     display:flex;
@@ -44,21 +45,22 @@ html{margin:80px;
     display:flex;}
 .table{ display:flex;
 justify-content: space-between;} 
-#two{text-align: center;}  
-input[type=text], select {
+#two{text-align: center;}   
+.form-group1{
     width: 50%;
     padding: 12px 20px;
     margin: 8px 0;
-    box-sizing: border-box;
+ 
   }
-  textarea {
-    width: 80%;
-    height: 150px;
+.form-group2{
+    width: 50%;
     padding: 12px 20px;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    background-color: #f8f8f8;
-    font-size: 16px;
-    resize: none;
+    margin: 8px 0;
+ 
   }
+  .form-group3{ width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+      }
+ 
+}   
