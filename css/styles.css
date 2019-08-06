@@ -9,11 +9,9 @@ html{margin:80px;
   padding-top: 120px;
 }
 .services{background-image:url(/home/wecode/Home/delani/IP3/assets/backgrounds/s_image.jpg);
-    background-repeat:no-repeat;
-    background-size:cover;
-  background-position:center;
-  height:400px;
-  width:80%;
+    background-repeat: no-repeat;
+    height:500px;
+    width:100%;
   text-align: center;
   color:white;
   padding-top: 120px;
