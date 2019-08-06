@@ -1,3 +1,6 @@
+html{margin:80px;
+    padding:100px;}
+    
 .main{background-image:url("/home/wecode/Home/delani/IP3/assets/backgrounds/h_img.jpg");
     background-repeat:no-repeat;
     background-size:cover;
@@ -17,13 +20,14 @@
   text-align: center;
   color:white;
   padding-top: 120px;
+  font-family: bold;
 }
 .third{background-image:url(/home/wecode/Home/delani/IP3/assets/backgrounds/c_image.jpg);
     background-repeat:no-repeat;
     background-size:cover;
   background-position:center;
   height:500px;
-  width:80%;
+  width:100%;
   text-align: center;
   color:white;
   padding-top: 120px;
@@ -31,3 +35,30 @@
 .zero{text-align: center;}
 .table{text-align: center;
     margin-right: 150px;}
+#port{text-align: center;}
+.table4{
+    justify-content:center;
+    display:flex;
+}
+.contact{justify-content:center;
+    display:flex;}
+.table{ display:flex;
+justify-content: space-between;} 
+#two{text-align: center;}  
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  textarea {
+    width: 80%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
