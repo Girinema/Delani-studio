@@ -1,6 +1,6 @@
 # Application Name
 Delani studio
-#### Author
+### Author
 GRACE GIRINEMA
 #### Brief description of application
 everything learnt from Bootstrap and jQuery to recreate a landing page
@@ -14,6 +14,6 @@ bootstrap
 
 ## contact details
 email:gracegirinema@gmail.com
+tel:0788221135
 ### License
-
 Copyright (c) {2019} 
